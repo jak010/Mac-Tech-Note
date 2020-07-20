@@ -21,3 +21,8 @@
 3. make
 4. make install 
 ~~~
+
+# Mac 에서 exiftool 설치
+~~~
+brew install exiftool
+~~~
