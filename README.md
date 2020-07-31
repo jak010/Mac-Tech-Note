@@ -6,9 +6,9 @@
 2. 모의 해킹 또는 그에 관련한 도구를 설치하는 방법
 ~~~
 
-
-# MAC 에서 netdiscover 설치
+# Mac Tool INSTALL NOTE
 ~~~
+# MAC 에서 netdiscover 설치
 [+] libnet-dev : http://www.noktec.be/pentesting-with-os-x/netdiscover
 1. cd libnet
 2. sudo ./configure
@@ -20,9 +20,12 @@
 2. cmake .
 3. make
 4. make install 
-~~~
 
 # Mac 에서 exiftool 설치
+1. brew install exiftool
+
+# Mac 에서 wpscan 설치
+1. brew install wpscan 
 ~~~
-brew install exiftool
-~~~
+
+
