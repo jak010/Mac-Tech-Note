@@ -5,6 +5,14 @@
 2. 침투 테스팅 또는 그에 관련한 도구를 설치하는 방법
 ~~~
 
+# 다운로드 받은 파일 환경변수 실행방법
+```
+1. /usr/local/bin 밑에 심볼릭 링크 생성
+2. /usr/local/bin 경로로 이동한 뒤 지정
+3. ln - s {실행할 파일 경로} {실행 될 이름}
+
+```
+
 # Mac Tool INSTALL NOTE
 ```
 # MAC 에서 netdiscover 설치
