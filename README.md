@@ -52,5 +52,11 @@
 #### How to install binwalk
 ```
 1. Passvie Install : https://github.com/ReFirmLabs/binwalk/blob/master/INSTALL.md
+```
 
+
+### How to install mysql using with docker on M1 Mac
+```
+1. docker pull 
+docker pull mysql:5.7 --platform linux/x86_64
 ```
