@@ -60,3 +60,8 @@
 1. docker pull 
 docker pull mysql:5.7 --platform linux/x86_64
 ```
+
+### 터미널 SSD 모니터링 툴
+```
+https://www.itworld.co.kr/news/184918
+```
